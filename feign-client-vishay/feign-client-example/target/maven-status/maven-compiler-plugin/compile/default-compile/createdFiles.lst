@@ -1,0 +1,7 @@
+com\example\feignclientexample\FeignClientExampleApplication.class
+com\example\feignclientexample\exception\AppFeignErrorDecoder.class
+com\example\feignclientexample\exception\AppExceptionHandler.class
+com\example\feignclientexample\ProductServiceClient.class
+com\example\feignclientexample\exception\ProductNotFoundException.class
+com\example\feignclientexample\Product.class
+com\example\feignclientexample\ClientController.class
